@@ -50,7 +50,9 @@ Basu, PK, Lin CS, Binns MR. (1977). A comparison of sampling methods for surveyi
 
 ## 2. Farmer Sampling Protocol
 #### Rationale:
-Ideally, we would ask farmers to replicate the Team Sampling Protocol, however this is too time intensive and complex to be realistic. Therefore, a minimum viable product that a farmer could deliver has been identified to provide a fair representation of the Gt status of a field - the unit of replication in this study. Lin et al. (1979) find that a simple diagonal sampling method, with 10 samples evenly spaced along the diagonal, is an acceptable sampling method for clustered disease distributions with incidence rates <20% or >80%. ![Diagonal sampling method](graphics/farmer_sample_design.svg)
+Ideally, we would ask farmers to replicate the Team Sampling Protocol, however this is too time intensive and complex to be realistic. Therefore, a minimum viable product that a farmer could deliver has been identified to provide a fair representation of the Gt status of a field - the unit of replication in this study. Lin et al. (1979) find that a simple diagonal sampling method, with 10 samples evenly spaced along the diagonal, is an acceptable sampling method for clustered disease distributions with incidence rates <20% or >80%. 
+
+![Diagonal sampling method](graphics/farmer_sample_design.svg)
 
 The issue here is that fields vary in their size and walking a full diagonal might be time-consuming. Also, how should we direct the farmer to evenly space the sampling points when the diagonal would vary in size? 
 - Assuming a typical lower bound for field size is 4ha, the diagonal of such a field would measure about 565m. 
