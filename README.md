@@ -28,9 +28,8 @@ For our site visits, we must record all the information that we are also solicit
 2. Use the GPS to mark out the four corners of the field, and from here calculate the parameters of the W-walk, i.e. the location of the 10 sampling points. 
    
    **Note:** Tom proposes an "X" design, where we sample 10 points along the red line (this is what the farmer is doing), but do we sample 10 or 9 (as the centre is repeated) points along the green line? Subsample of points along the red line are homogenised in the line.
-```{figure} graphics/sample_designs.svg
-Left, Basu et al. W-walk; right, Tom's proposed X design.
-```
+
+   ![Left, Basu et al. W-walk; right, Tom's proposed X design.](graphics/sample_designs.svg)
 
 3. Navigate to the first sampling point. Use the soil auger to take a sample to 10cm depth. Place in a Ziploc bag labelled with the name of field and sample point - e.g. **Cherry Farm - Field A - Point 1**
 
