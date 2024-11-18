@@ -20,6 +20,8 @@
 
 ## Safe Use of Controlled Environment Plant Rooms
 
+This is a description of how to use the CE rooms at Silwood Park
+
 #### Safety
 The electrical equipment (grow lights) in the CE room run at 240 V. A 240 V shock is enough to kill an adult.  
 - Be on the alert for any signs of a faulty outlet. Shut power to the room immediately if you notice: 
