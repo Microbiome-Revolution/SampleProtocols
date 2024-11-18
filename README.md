@@ -1,5 +1,7 @@
 # The Microbiome Green Revolution's repository for maintaining Sampling Protocol Documentation
 
+---
+
 ## Table of Contents
 * [Safe Use of Controlled Environment Plant Rooms](#safe-use-of-controlled-environment-plant-rooms)
 * [Field Sample Protocol - Needs Updating](#field-sample-protocol---needs-updating)
@@ -13,6 +15,8 @@
   * [Seedling Bioassay - To recover Gaeumannomyces tritici isolates from Soil](#seedling-bioassay---to-recover-gaeumannomyces-tritici-isolates-from-soil)
 * [Transportation of Gt Isolates - Rothamsted Protocol (March 2024)](#transportation-of-gt-isolates---rothamsted-protocol-march-2024)
 * [Trial Protocol for Biocontrol of Gt](#Trial-Protocol-for-Biocontrol-of-Gt)
+
+---
 
 ## Safe Use of Controlled Environment Plant Rooms
 
@@ -60,6 +64,8 @@ The electrical equipment (grow lights) in the CE room run at 240 V. A 240 V shoc
 
 #### Programming the CE Room
 - You can program the room from the panel just outside the door, but if a circuit trips, the program will go back to its ‘default.’ Ask Paul Beasley to program the CE room from the central computer (we do not have access to this). 
+
+---
 
 ## Field Sample Protocol - Needs Updating
 **Field Protocol:**
@@ -284,12 +290,18 @@ This protocol should be carried in the lamina flow hood, all equipment used shou
 ### Seedling Bioassay - To recover Gaeumannomyces tritici isolates from Soil
 1. Collect 10cm soil cores from around the root base of plants or dig up plants and collect soil surrounding root ball. 
 2. Invert core into an 11cm tall white plastic pot, previously drilled with four 3mm diameter drainage holes, and containing 50 cm3 of coarse sand.  
-3. Bait with 10 wheat seeds (Fig 1) and cover with approximately 1 cm of horticultural grit. 
+3. Bait with 10 wheat seeds (Fig 1) and cover with approximately 1 cm of horticultural grit.
+ 
+   <img src="graphics/roth_protocol.svg" width="500">
+
 4. Incubate in a controlled environment room with 16 h light cycle, 15°C day and 10°C night-time temperatures for 3 weeks.  
 5. Water the cores from above and again twice a week on a Tuesday morning and a Friday afternoon. 
 6. After 3 weeks remove the cores from the growth room,  twist the roots off at the soil-sand interface and wash the roots free of soil.  
 7. Examine the roots for black take-all lesions in a white shallow dish whilst submerged in water. 
 8. Proceed to recover Gt isolates using ‘Root  Isolation of Gauemannomyces tritici’ protocol above. 
+
+    
+
 
 Gail Canning, Rothamsted Research, Herts, AL5 2JQ, UK - November 2023  
 
