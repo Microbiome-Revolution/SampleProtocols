@@ -1,6 +1,7 @@
 # The Microbiome Green Revolution's repository for maintaining Sampling Protocol Documentation
 
 ## Table of Contents
+* [Safe Use of Controlled Environment Plant Rooms](#safe-use-of-controlled-environment-plant-rooms)
 * [Field Sample Protocol](#field-sample-protocol)
 * [Gt Culturing Protocol](#gt-culturing-protocol)
   * [Protocol – Propagating cultures of Ggt on PDA plates from a pure culture](#protocol--propagating-cultures-of-ggt-on-pda-plates-from-a-pure-culture)
@@ -13,6 +14,52 @@
 * [Transportation of Gt Isolates - Rothamsted Protocol (March 2024)](#transportation-of-gt-isolates---rothamsted-protocol-march-2024)
 * [Trial Protocol for Biocontrol of Gt](#Trial-Protocol-for-Biocontrol-of-Gt)
 
+## Safe Use of Controlled Environment Plant Rooms
+
+#### Safety
+The electrical equipment (grow lights) in the CE room run at 240 V. A 240 V shock is enough to kill an adult.  
+- Be on the alert for any signs of a faulty outlet. Shut power to the room immediately if you notice: 
+  - Flickering lights  
+  - A burning plastic smell, or discoloured/melting plastic on the outlet, plug, or wires 
+  - Smoke or sparks from any component of the equipment 
+  - Overheating outlets (they should not feel hot to touch) 
+  - Loose plugs (don’t sit in the socket correctly) 
+- DO NOT plug or unplug the grow lights without cutting power to the room
+  
+    <img src="graphics/Safe_CE_room_1.svg" width="200">
+
+#### Cutting power to the CE Room – must be done from outside 
+- Press the green button to cut power to the outlets (which power the grow lights and fans). The bulkhead (wall-mounted) light will stay on.  
+- Turn the red knob to cut all power to the CE room.  
+
+    <img src="graphics/Safe_CE_room_2.svg" width="200">
+
+#### Steam-cleaning the CE Room 
+- Press the green button to cut power to the room 
+- Unplug and move the benches/light assemblies out of the room 
+- Cover plug outlets with their attached covers 
+- Use tape to cover the humidity sensors at the back of the room
+
+    <img src="graphics/Safe_CE_room_3.svg" width="200">
+
+- Use parafilm to tightly seal around the top of the PVC tubes covering red, black, and purple wires. This is to prevent any condensation from entering the tubes and causing a short 
+
+    <img src="graphics/Safe_CE_room_4.svg" width="200">
+
+- Use the steam cleaner to sanitise walls and floors. Wear eye protection and a lab coat, and remember not to touch the end of the appliance or direct the steam near any body parts – this vapour will be over 100°C!  
+
+- Move the steam cleaner slowly and steadily over small sections of the wall 
+
+- Use paper towels (or a paint roller, for areas you can’t reach) to wipe down all surfaces and remove any condensation  
+- Wait until the room is completely dry before bringing the benches/light assemblies back inside. Don’t plug them in again unless the power to the room is cut!  
+- Remove parafilm and tape from sensors and piping 
+- Wipe down the benches themselves with Virkon. Wear appropriate PPE (eye protection, gloves, lab coat)
+
+#### Other maintenance issues 
+- Notify a PI or Paul Beasley immediately if you notice condensation on the ceiling pipes, or any water accumulating on the benches or floors 
+
+#### Programming the CE Room
+- You can program the room from the panel just outside the door, but if a circuit trips, the program will go back to its ‘default.’ Ask Paul Beasley to program the CE room from the central computer (we do not have access to this). 
 
 ## Field Sample Protocol
 **Field Protocol:**
