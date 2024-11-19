@@ -6,9 +6,9 @@
 * [Safe Use of Controlled Environment Plant Rooms](#safe-use-of-controlled-environment-plant-rooms)
 * [Field Sample Protocol - Needs Updating](#field-sample-protocol---needs-updating)
 * [Gt Culturing Protocol](#gt-culturing-protocol)
-  * [Protocol – Propagating cultures of Ggt on PDA plates from a pure culture](#protocol--propagating-cultures-of-ggt-on-pda-plates-from-a-pure-culture)
-  * [Protocol – Propagating cultures of Ggt on selective media (sm-ggt3) from an environmental sample](#protocol--propagating-cultures-of-ggt-on-selective-media-sm-ggt3-from-an-environmental-sample)
-  * [Protocol – Inoculating particulate medium with Ggt – prepare immediately prior to experiment](#protocol--inoculating-particulate-medium-with-ggt--prepare-immediately-prior-to-experiment)
+  * [Protocol – Propagating cultures of Gt on PDA plates from a pure culture](#protocol--propagating-cultures-of-Gt-on-pda-plates-from-a-pure-culture)
+  * [Protocol – Propagating cultures of Gt on selective media (SM-GGT3) from an environmental sample](#protocol--propagating-cultures-of-gt-on-selective-media-sm-ggt3-from-an-environmental-sample)
+  * [Protocol – Inoculating particulate medium with Gt – prepare immediately prior to experiment](#protocol--inoculating-particulate-medium-with-Gt--prepare-immediately-prior-to-experiment)
 * [Germinating (non-sterile) wheat in the controlled environment room](#germinating-non-sterile-wheat-in-the-controlled-environment-room)
 * [Root or Soil Isolation of Gt - Rothamsted Protocol (Nov 2023)](#root-or-soil-isolation-of-gt---rothamsted-protocol-nov-2023)
   * [Cereal Root Isolation of Gaeumannomyces tritici](#cereal-root-isolation-of-gaeumannomyces-tritici)
@@ -116,11 +116,11 @@ The electrical equipment (grow lights) in the CE room run at 240 V. A 240 V shoc
 
 #### Rationale:
 
-This protocol describes how to propagate Gaeumannomyces graminis var tritici (Ggt) cultures from pure culture, how to isolate Ggt from infected roots, and how to inoculate Ggt into a powdery medium for plant inoculation.
+This protocol describes how to propagate Gaeumannomyces graminis var tritici (Gt) cultures from pure culture, how to isolate Gt from infected roots, and how to inoculate Gt into a powdery medium for plant inoculation.
 
 **[Note: Gt loses infectivity after several months without contact with a plant host. To avoid experimental bias, cultures should not be repeatedly propagated without plant contact]**
 
-**Important!!** Fungal contamination can cause major issues for those working alongside you. Fungal spores are easily transmitted and can remain in the air and on surfaces for long periods of time, often infecting other lab cultures. This is very hard to deal with and can take months to clear from a laboratory. Please ensure that you stick to strict aseptic technique when working with fungus in the laboratory.  **Although Ggt is not known to have airborne dispersal, you MUST check with PIs before attempting to culture any other fungus that may produce spores. Special containment procedures (other than those described below) may be required.**  
+**Important!!** Fungal contamination can cause major issues for those working alongside you. Fungal spores are easily transmitted and can remain in the air and on surfaces for long periods of time, often infecting other lab cultures. This is very hard to deal with and can take months to clear from a laboratory. Please ensure that you stick to strict aseptic technique when working with fungus in the laboratory.  **Although Gt is not known to have airborne dispersal, you MUST check with PIs before attempting to culture any other fungus that may produce spores. Special containment procedures (other than those described below) may be required.**  
 
 #### Reagents:
 - Potato dextrose agar (Sigma) 
@@ -145,9 +145,9 @@ This protocol describes how to propagate Gaeumannomyces graminis var tritici (Gg
 - Balance + scoopula for weighing ingredients 
 - Graduated cylinder (for measuring water) 
 - Sealed waste containers 
-- Secondary containment box for Ggt cultures 
+- Secondary containment box for Gt cultures 
 
-### Protocol – Propagating cultures of Ggt on PDA plates from a pure culture
+### Protocol – Propagating cultures of Gt on PDA plates from a pure culture
 
 Steps 1-6 can be done in the Unit C laminar flow hood:
 1. Thoroughly clean the cabinet with ethanol or 10% bleach 
@@ -165,14 +165,14 @@ Steps 1-6 can be done in the Unit C laminar flow hood:
 
 For the steps below, work in the MSC – you must have appropriate training before using this hood 
 
-7. To inoculate, transfer a ‘plug’ of Ggt pure culture to the centre of your petri dish 
+7. To inoculate, transfer a ‘plug’ of Gt pure culture to the centre of your petri dish 
 8. Special considerations for removing cultures and/or waste materials from the MSC 
-   - Once the petri dishes are inoculated with Ggt they need to be sealed with parafilm and placed in secondary containment (a sealed box) inside the hood. Once the plates are in secondary containment the box can be sprayed with ethanol and removed from the hood.  
+   - Once the petri dishes are inoculated with Gt they need to be sealed with parafilm and placed in secondary containment (a sealed box) inside the hood. Once the plates are in secondary containment the box can be sprayed with ethanol and removed from the hood.  
    - Please make sure that any waste that has had contact with fungal cultures is placed in a bag in the hood. This bag needs to be sealed before it is removed from the hood and then placed in an autoclave bag for sterilisation. 
 9. Thoroughly clean the cabinet when you are finished with 10% bleach or 70% ethanol.  
 
 
-### Protocol – Propagating cultures of Ggt on selective media (SM-GGT3) from an environmental sample
+### Protocol – Propagating cultures of Gt on selective media (SM-GGT3) from an environmental sample
 
 Working in the chemical fume cupboard 
 1. Prepare a solution of 10 mg dicloran, 10 mg metalaxyl, 25 mg Hoe 00703, 100 mg streptomycin sulfate, and 500 mg L-DOPA in 10 mL of sterile water in a sterile tube 
@@ -183,7 +183,7 @@ Steps 2-6 can be done in the Unit C laminar flow hood
    - Autoclave 15 minutes at 121° C. **Wear gloves** to remove media – it will be hot! 
 4. When the PDA media has cooled to 60° C, but while the solution is still liquid, add the solution prepared in step 1 
 5. Spray bench with 70% ethanol 
-6. Label appropriate number of petri dishes with the date and type of media (‘SM-GGT3’) 
+6. Label appropriate number of petri dishes with the date and type of media (‘SM-Gt3’) 
 
 
 For the steps below, work in the MSC – you must have appropriate training before using this hood 
@@ -194,14 +194,14 @@ For the steps below, work in the MSC – you must have appropriate training befo
    - Dispose of the silver nitrate in an appropriate chemical waste container 
 8. When removing materials from the MSC, please follow ‘Special considerations for removing cultures and/or waste materials from the MSC’ as described above, and clean the MSC 
 
-### Protocol – Inoculating particulate medium with Ggt – prepare immediately prior to experiment
+### Protocol – Inoculating particulate medium with Gt – prepare immediately prior to experiment
 In the CE prep room 
 1. Soak 150 mL of dry oats in water overnight, and decant the liquid (the oats should still be very moist) 
 2. Autoclave oats for 1 hour at 121° C 
 
 Work in the MSC – you must have appropriate training before using this hood 
 3. Thoroughly clean the cabinet with ethanol or 10% bleach 
-4. Mix ‘plugs’ of Ggt culture with the oats in Petri dishes. You will need lots of replicate dishes to fit all the oats.  
+4. Mix ‘plugs’ of Gt culture with the oats in Petri dishes. You will need lots of replicate dishes to fit all the oats.  
 5. Remove materials from the MSC, following Special considerations for removing cultures and/or waste materials from the MSC’ as described above, and clean the MSC 
 
 In the CE prep room 
