@@ -15,7 +15,7 @@
   * [Seedling Bioassay - To recover Gaeumannomyces tritici isolates from Soil](#seedling-bioassay---to-recover-gaeumannomyces-tritici-isolates-from-soil)
 * [Transportation of Gt Isolates - Rothamsted Protocol (March 2024)](#transportation-of-gt-isolates---rothamsted-protocol-march-2024)
 * [Trial Protocol for Biocontrol of Gt](#Trial-Protocol-for-Biocontrol-of-Gt)
-
+* [Workflow for WP1](#Workflow-for-WP1) 
 ---
 
 ## Safe Use of Controlled Environment Plant Rooms
@@ -350,8 +350,15 @@ Place roots in 50 mL Falcon tubes with 15 mL sterile distilled water.
 4. Monitor growth and inhibition if any.  
 
 ---
+## Workflow for WP1
 
+1.	Collect and process soil and wheat root samples as described here Field Sampling SOP updated.docx. 
+2.	All metadata collected with the samples must be recorded and documented in the Metadata.xlsx file. Maintain a sample list in a Extraction master list.xlsx.
+3.	Extract DNA for 16S and ITS sequencing following the instructions provided. 
+4.	Quantify DNA as instructed for DNA quantification using Quant.docx.
+5.	Normalise DNA to a concentration required for 16S and ITS sequencing following this protocol.
 
+---
 
 
 
