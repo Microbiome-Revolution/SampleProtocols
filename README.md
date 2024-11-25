@@ -462,7 +462,6 @@ For optimal performance, add beta-mercaptoethanol (user supplied) to the Genomic
 11. Place the Silicon-A™ Plate directly onto a prepared Silicon-A™-HRC Plate, and then mount the assembly on a new Elution Plate (this new assembly is a 3-plate stack).
 12. Add 100 μl (50 μl minimum) DNA Elution Buffer directly to the matrices to the Silicon-A™ Plate on top. Centrifuge the assembly at exactly 3,500 x g for 3 minutes. Eluted, ultra-pure DNA is now ready for use in your experiments, or the Elution Plate can be covered with Cover Foil for storage of the DNA.
  
-Figure 1: Soil DNA Extraction protocol from manufacturers manual
 
 ---
 
