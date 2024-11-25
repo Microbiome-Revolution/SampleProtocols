@@ -16,10 +16,10 @@
 * [Transportation of Gt Isolates - Rothamsted Protocol (March 2024)](#transportation-of-gt-isolates---rothamsted-protocol-march-2024)
 * [Trial Protocol for Biocontrol of Gt](#Trial-Protocol-for-Biocontrol-of-Gt)
 * [Workflow for WP1](#Workflow-for-WP1)
-* [Field sampling protocol](Field-sampling-protocol)
-* [DNA extraction protocol following manufacturers manual](DNA-extraction-protocol-following-manufacturers-manual)
-* [DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit](DNA-quantification-using-Quant-iT-™-dsDNA-Broad-Range-Assay-Kit)
-* [DNA normalisation for sequencing with Biofoundry](DNA-normalisation-for-sequencing-with-Biofoundry)
+* [Field sampling protocol](#Field-sampling-protocol)
+* [DNA extraction protocol following manufacturers manual](#dna-extraction-protocol-following-manufacturers-manual)
+* [DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit](#dna-quantification-using-quant-it--dsdna-broad-range-assay-kit)
+* [DNA normalisation for sequencing with Biofoundry](#dna-normalisation-for-sequencing-with-biofoundry)
 ---
 
 ## Safe Use of Controlled Environment Plant Rooms
@@ -70,51 +70,6 @@ The electrical equipment (grow lights) in the CE room run at 240 V. A 240 V shoc
 - You can program the room from the panel just outside the door, but if a circuit trips, the program will go back to its ‘default.’ Ask Paul Beasley to program the CE room from the central computer (we do not have access to this). 
 
 ---
-
-## Field Sample Protocol - Needs Updating
-**Field Protocol:**
-1. Using satellite imagery (google maps) you can measure the length of the field from corner to corner. Do this to determine the length of the transect between sample points. E.g. if a field is 500m from corner to corner, the distance between sample points will be 50m.  
-
-2. Navigate to your first field point.  
-
-3.  Using the trowel dig a small hole to about 10cm depth, and place around 250g of soil into a labelled ziplock bag. Using the same trowel take a smaller amount of soil and place into the numbered bottle for the farmer kit sample, filling it about 1/10th of the way.  
-
-4.  Using the spade dig up the roots of a one wheat plant. Gently shake any loose soil form the root ball but you want to keep most of it, place this in a labelled ziplock (cut of the stems of the wheat plant as close to the soil as possible).  
-
-5.  One person then takes the transect out to the required length whilst the other holds the end of the transect in place at the first point.  
-
-6.  Repeat the steps 3-5 until you are at your 10th and final sample for your first transect. 
-
-7.  At this final sample, repeat all your sampling but also take an extra wheat root sample and place into the numbered bag for the farmer kit.  
-
-8.  Return samples to car/pick up point.  
-
-9.  Navigate to your next corner, which will be the start of the second transect.  
-
-10.  Repeat all of the steps for the first transect, minus the extra soil and wheat samples for the farmer kits. (To clarify: you will only be taking samples to put into ziplocks on this transect) 
-
-11.  Mark the field on google maps with a label so the location is noted.  
-
-**Processing field samples:**
-
-1. For all soil samples, they will be split into three sample bags.
-
-2. Using a spoon take roughly 50g of soil from the field sample and place into a smaller ziplock bag for the -80 freezer.  
-
-3.  Using the same spoon place roughly 50-70g of soil into a larger ziplock bag to be air dried. Roll the sides of this bag down and then place it where it will be out of the way to air dry for roughly a week (less if it was already quite dry). 
-
-4.  The soil left in the field sample bag can be sealed and rolled up to be placed in the fridge.  
-
-5.  Clean the spoon and area with 70% ethanol before moving on to the next sample and repeating.  
-
-6.  With the wheat root samples, you will need to extract some of the roots using your (gloved) hands.  
-
-7.  Gently pull the roots out of the sample and shake them to remove any excess soil (we only want to retain the rhizosphere soil).  
-
-8.  Place the roots into a small ziplock for the -80 freezer. The remaining sample can be sealed and rolled up to be placed in the fridge.  
-
----
- 
 
 ## Gt Culturing Protocol
 
@@ -365,25 +320,28 @@ Place roots in 50 mL Falcon tubes with 15 mL sterile distilled water.
 ---
 
 ## Field sampling protocol
-Imperial Team 
-Rationale
+### Imperial Team 
+#### Rationale
 The goal of this experiment is to assess Gt abundance in soils, and its co-occurrence with other taxa. 
+
 We will attempt to quantify this in fields that vary in their:
-•	climate and soil type
-•	management (fertiliser, pesticide inputs)
-•	crop rotation [this year, and for the past several years
-•	take-all disease severity [this year, and for the past several years]
+- climate and soil type
+- management (fertiliser, pesticide inputs)
+- crop rotation [this year, and for the past several years
+- take-all disease severity [this year, and for the past several years]
+
 For our survey, the unit of replication is an individual field (there may be multiple fields sampled at a given farm, if the fields vary in management/ rotation/ disease severity). We wish to sample Gt DNA from topsoils (0-10 cm) AND to culture Gt from wheat roots.
-Equipment and supplies
-•	GPS
-•	Plastic bags + sharpie [Label all samples using the postcode as guide. E.g. for Postcode SL5 7PY, use 7PY.01.XX where 7PY is the last 3 characters of the farm postcode; 01. is the field number (In the event that there are multiple fields to be sampled. If there is only one field, label should remain 01.) And XX is sample e.g. 18. So 7PY.01.18 is the 18th sample in the first field from the farm with postcode SL5 7PY. 
-•	Soil auger (5 cm diameter) - will collect one sample of approx. 200 g when deployed to 10 cm depth
-•	Spade
-•	Ethanol (70%) in spray bottle + paper towels
-•	Cooler with ice packs
-•	Secateurs
-•	Tape measure
-NB: for our site visits, we must record all the information that we able to in addition to information provided by farmers via the survey and form. are also soliciting from farmers through the mail-in sampling campaign (next tab) - check with site/land manager.
+#### Equipment and supplies
+- GPS
+- Plastic bags + sharpie [Label all samples using the postcode as guide. E.g. for Postcode SL5 7PY, use 7PY.01.XX where 7PY is the last 3 characters of the farm postcode; 01. is the field number (In the event that there are multiple fields to be sampled. If there is only one field, label should remain 01.) And XX is sample e.g. 18. So 7PY.01.18 is the 18th sample in the first field from the farm with postcode SL5 7PY. 
+- Soil auger (5 cm diameter) - will collect one sample of approx. 200 g when deployed to 10 cm depth
+- Spade
+- Ethanol (70%) in spray bottle + paper towels
+- Cooler with ice packs
+- Secateurs
+- Tape measure
+
+**NB:** for our site visits, we must record all the information that we able to in addition to information provided by farmers via the survey and form. are also soliciting from farmers through the mail-in sampling campaign (next tab) - check with site/land manager.
 
 Proposed by Tom and used for all sampling is the "X" design
 1.	Using satellite imagery (e.g Google maps) measure the length of the field from corner to corner. Do this to determine the length of the transect and between sample points. E.g. if a field is 500m from corner to corner, the distance between sample points will be 50m.  
@@ -401,25 +359,26 @@ N.B. The protocol above should yield 2 kg of soil per field
 11.	Mark the field on google maps with a label so the location is noted.
 N.B. Provide the farmer/ farm manager with the survey form or survey link to obtain farm history.  
 
-Field Protocol- Farmer kits
-Rationale
+### Field Protocol-Farmer kits
+#### Rationale
 Ideally, we would have farmers replicate the sampling protocol performed by our team - but this is too time intensive and complex to be realistic. Therefore, we need to identify the 'minimum viable product' that a farmer could deliver, that would be a fair representation of the Gt status of a field (our unit of replication). Lin et al (1979) find that a simple diagonal sampling method, with 10 samples evenly spaced along the diagonal, is an acceptable sampling method for clustered disease distributions with incidence rates < 20 or > 80%.
 The issue here is that fields vary in their size, and walking a full diagonal might be time-consuming. Also, how should we direct the farmer to evenly space the sampling points when the diagonal would vary in size? Assuming a typical lower bound for field size is 4 ha, the diagonal of such a field would measure about 565 m. Again, assuming that 500 m = 650 paces for the typical adult, we could approximate the diagonal sampling design by having the farmer take a sample every 65 paces along a straight line, probably a tramline (to provide easy access), until 10 samples are collected. 
 If we reduced the sampling interval to 10 paces, we'd obtain much lower coverage of the whole field (diagonal of ~80 m) but it might be worth it to reduce farmer effort. This is the approach adopted below. 
 
-Equipment and supplies
+#### Equipment and supplies
 Provided in the kit
-•	Ziploc bags for wheat root (pre-labelled)
-•	Graduated soil bottle (pre-labelled) 
-•	Trowel
-Farmer provided
-•	Secateurs
+- Ziploc bags for wheat root (pre-labelled)
+- Graduated soil bottle (pre-labelled) 
+- Trowel
 
-Method
+Farmer provided
+- Secateurs
+
+#### Method
 N.B.
-a.	You may access the field from any point, but we recommend starting at the beginning of a tramline, to make it easier to walk a distance of ~100 m into the field.
-b.	Each sampling kit corresponds to one field.
-c.	Kit will have a QR code for farmers to answer specific questions about their field.
+- You may access the field from any point, but we recommend starting at the beginning of a tramline, to make it easier to walk a distance of ~100 m into the field.
+- Each sampling kit corresponds to one field.
+- Kit will have a QR code for farmers to answer specific questions about their field.
 
 1.	Use the gardening spade to scoop a small amount of soil into the container. Make sure you are sampling soils in the crop and not in the tramline. Try to ensure you're digging into the soil to a depth of approximately 10 cm.
 2.	Walk 10 paces and repeat step 1 placing soil in the same sampling bottle. 
@@ -428,25 +387,26 @@ N.B. All the soil should all be put into the same container
 4.	At the last sampling point, dig up a single wheat plant and place it into the provided plastic bag. 
 N.B. Important: We are mostly interested in the roots and the soil that sticks to the roots, so you can cut off the top of the plant to make it fit. Don't try to remove soils from around the roots!
 
-References
+#### References
 Lin CS, Poushinsky G, Mauer M. 1979. An examination of five sampling methods under random and clustered disease distributions using simulation. Can J Plant Sci 59: 121-130 https://doi.org/10.4141/cjps79-017					
+
 Processing field samples:  
-1.	For all soil samples, they will be split into three sample bags.  
-a.	Using a spoon take roughly 50g of soil from the field sample and place into a smaller ziplock bag for the -80°C freezer.  
-b.	Using the same spoon place roughly 50-70g of soil into a larger ziplock bag to be air dried. Roll the sides of this bag down and then place it where it will be out of the way to air dry for roughly a week (less if it was already quite dry). 
-c.	The soil left in the field sample bag can be sealed and rolled up to be placed in the fridge.  
-5.	Clean the spoon and area with 70% ethanol before moving on to the next sample and repeating.  
-6.	With the wheat root samples, you will need to extract some of the roots using your (gloved) hands.  
-7.	Gently pull the roots out of the sample and shake them to remove any excess soil (we only want to retain the rhizosphere soil).  
-8.	Place the roots into a small ziplock for the -80°C freezer. The remaining sample can be sealed and rolled up to be placed at 4°C in the fridge.  
+- For all soil samples, they will be split into three sample bags.
+   - Using a spoon take roughly 50g of soil from the field sample and place into a smaller ziplock bag for the -80°C freezer.  
+   - Using the same spoon place roughly 50-70g of soil into a larger ziplock bag to be air dried. Roll the sides of this bag down and then place it where it will be out of the way to air dry for roughly a week (less if it was already quite dry). 
+   - The soil left in the field sample bag can be sealed and rolled up to be placed in the fridge.  
+- Clean the spoon and area with 70% ethanol before moving on to the next sample and repeating.  
+- With the wheat root samples, you will need to extract some of the roots using your (gloved) hands.  
+- Gently pull the roots out of the sample and shake them to remove any excess soil (we only want to retain the rhizosphere soil).  
+- Place the roots into a small ziplock for the -80°C freezer. The remaining sample can be sealed and rolled up to be placed at 4°C in the fridge.  
  
 ---
 
-## DNA extraction protocol following manufacturers manual 
+## DNA extraction protocol following manufacturers manual
 
-Zymo research DNA™ Fecal/Soil Microbe 96 Kit (Catalogue number D6011)
-DNA from fecal, soil, and microbial samples.
-For optimal performance, add beta-mercaptoethanol (user supplied) to the Genomic Lysis Buffer to a final dilution of 0.5% (v/v) i.e., 750μl per 150 ml.- This was not added 
+- Zymo research DNA™ Fecal/Soil Microbe 96 Kit (Catalogue number D6011)
+- DNA from fecal, soil, and microbial samples.
+- For optimal performance, add beta-mercaptoethanol (user supplied) to the Genomic Lysis Buffer to a final dilution of 0.5% (v/v) i.e., 750μl per 150 ml.- This was not added 
 
 1. Add ≤135 mg of soil to the tubes of a ZR BashingBead™ Lysis Rack (0.1 & 0.5 mm). Add 400 μl BashingBead™ Buffer to each tube and cap tightly.
 2. Secure in a bead beater fitted with the appropriate holder assembly for your bead beating module and process using optimized beat beating conditions (speed and time) for your device (see Appendix).
@@ -465,7 +425,7 @@ For optimal performance, add beta-mercaptoethanol (user supplied) to the Genomic
 
 ---
 
-## DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit 
+## DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit
 
 Quant-iT ™ dsDNA Broad-Range Assay Kit (Catalog no. Q33130) 
 Following manufacturers manual:
