@@ -3,8 +3,9 @@
 ---
 
 ## Table of Contents
+* [Workflow for WP1](#Workflow-for-WP1)
 * [Safe Use of Controlled Environment Plant Rooms](#safe-use-of-controlled-environment-plant-rooms)
-* [Field Sample Protocol - Needs Updating](#field-sample-protocol---needs-updating)
+* [Field sampling protocol](#Field-sampling-protocol)
 * [Gt Culturing Protocol](#gt-culturing-protocol)
   * [Protocol – Propagating cultures of Gt on PDA plates from a pure culture](#protocol--propagating-cultures-of-Gt-on-pda-plates-from-a-pure-culture)
   * [Protocol – Propagating cultures of Gt on selective media (SM-GGT3) from an environmental sample](#protocol--propagating-cultures-of-gt-on-selective-media-sm-ggt3-from-an-environmental-sample)
@@ -15,11 +16,19 @@
   * [Seedling Bioassay - To recover Gaeumannomyces tritici isolates from Soil](#seedling-bioassay---to-recover-gaeumannomyces-tritici-isolates-from-soil)
 * [Transportation of Gt Isolates - Rothamsted Protocol (March 2024)](#transportation-of-gt-isolates---rothamsted-protocol-march-2024)
 * [Trial Protocol for Biocontrol of Gt](#Trial-Protocol-for-Biocontrol-of-Gt)
-* [Workflow for WP1](#Workflow-for-WP1)
-* [Field sampling protocol](#Field-sampling-protocol)
 * [DNA extraction protocol following manufacturers manual](#dna-extraction-protocol-following-manufacturers-manual)
 * [DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit](#dna-quantification-using-quant-it--dsdna-broad-range-assay-kit)
 * [DNA normalisation for sequencing with Biofoundry](#dna-normalisation-for-sequencing-with-biofoundry)
+---
+
+## Workflow for WP1
+
+1.	Collect and process soil and wheat root samples as described here Field Sampling SOP updated.docx. 
+2.	All metadata collected with the samples must be recorded and documented in the Metadata.xlsx file. Maintain a sample list in a Extraction master list.xlsx.
+3.	Extract DNA for 16S and ITS sequencing following the instructions provided. 
+4.	Quantify DNA as instructed for DNA quantification using Quant.docx.
+5.	Normalise DNA to a concentration required for 16S and ITS sequencing following this protocol.
+
 ---
 
 ## Safe Use of Controlled Environment Plant Rooms
@@ -70,6 +79,50 @@ The electrical equipment (grow lights) in the CE room run at 240 V. A 240 V shoc
 - You can program the room from the panel just outside the door, but if a circuit trips, the program will go back to its ‘default.’ Ask Paul Beasley to program the CE room from the central computer (we do not have access to this). 
 
 ---
+
+## Field Protocol-Farmer kits
+#### Rationale
+Ideally, we would have farmers replicate the sampling protocol performed by our team - but this is too time intensive and complex to be realistic. Therefore, we need to identify the 'minimum viable product' that a farmer could deliver, that would be a fair representation of the Gt status of a field (our unit of replication). Lin et al (1979) find that a simple diagonal sampling method, with 10 samples evenly spaced along the diagonal, is an acceptable sampling method for clustered disease distributions with incidence rates < 20 or > 80%.
+The issue here is that fields vary in their size, and walking a full diagonal might be time-consuming. Also, how should we direct the farmer to evenly space the sampling points when the diagonal would vary in size? Assuming a typical lower bound for field size is 4 ha, the diagonal of such a field would measure about 565 m. Again, assuming that 500 m = 650 paces for the typical adult, we could approximate the diagonal sampling design by having the farmer take a sample every 65 paces along a straight line, probably a tramline (to provide easy access), until 10 samples are collected. 
+If we reduced the sampling interval to 10 paces, we'd obtain much lower coverage of the whole field (diagonal of ~80 m) but it might be worth it to reduce farmer effort. This is the approach adopted below. 
+
+#### Equipment and supplies
+Provided in the kit
+- Ziploc bags for wheat root (pre-labelled)
+- Graduated soil bottle (pre-labelled) 
+- Trowel
+
+Farmer provided
+- Secateurs
+
+#### Method
+N.B.
+- You may access the field from any point, but we recommend starting at the beginning of a tramline, to make it easier to walk a distance of ~100 m into the field.
+- Each sampling kit corresponds to one field.
+- Kit will have a QR code for farmers to answer specific questions about their field.
+
+1.	Use the gardening spade to scoop a small amount of soil into the container. Make sure you are sampling soils in the crop and not in the tramline. Try to ensure you're digging into the soil to a depth of approximately 10 cm.
+2.	Walk 10 paces and repeat step 1 placing soil in the same sampling bottle. 
+3.	Repeat until you have collected from 10 points in total and walked 100 paces.
+N.B. All the soil should all be put into the same container 
+4.	At the last sampling point, dig up a single wheat plant and place it into the provided plastic bag. 
+N.B. Important: We are mostly interested in the roots and the soil that sticks to the roots, so you can cut off the top of the plant to make it fit. Don't try to remove soils from around the roots!
+
+#### References
+Lin CS, Poushinsky G, Mauer M. 1979. An examination of five sampling methods under random and clustered disease distributions using simulation. Can J Plant Sci 59: 121-130 https://doi.org/10.4141/cjps79-017					
+
+Processing field samples:  
+- For all soil samples, they will be split into three sample bags.
+   - Using a spoon take roughly 50g of soil from the field sample and place into a smaller ziplock bag for the -80°C freezer.  
+   - Using the same spoon place roughly 50-70g of soil into a larger ziplock bag to be air dried. Roll the sides of this bag down and then place it where it will be out of the way to air dry for roughly a week (less if it was already quite dry). 
+   - The soil left in the field sample bag can be sealed and rolled up to be placed in the fridge.  
+- Clean the spoon and area with 70% ethanol before moving on to the next sample and repeating.  
+- With the wheat root samples, you will need to extract some of the roots using your (gloved) hands.  
+- Gently pull the roots out of the sample and shake them to remove any excess soil (we only want to retain the rhizosphere soil).  
+- Place the roots into a small ziplock for the -80°C freezer. The remaining sample can be sealed and rolled up to be placed at 4°C in the fridge.  
+ 
+---
+
 
 ## Gt Culturing Protocol
 
@@ -309,15 +362,6 @@ Place roots in 50 mL Falcon tubes with 15 mL sterile distilled water.
 4. Monitor growth and inhibition if any.  
 
 ---
-## Workflow for WP1
-
-1.	Collect and process soil and wheat root samples as described here Field Sampling SOP updated.docx. 
-2.	All metadata collected with the samples must be recorded and documented in the Metadata.xlsx file. Maintain a sample list in a Extraction master list.xlsx.
-3.	Extract DNA for 16S and ITS sequencing following the instructions provided. 
-4.	Quantify DNA as instructed for DNA quantification using Quant.docx.
-5.	Normalise DNA to a concentration required for 16S and ITS sequencing following this protocol.
-
----
 
 ## Field sampling protocol
 ### Imperial Team 
@@ -359,48 +403,7 @@ N.B. The protocol above should yield 2 kg of soil per field
 11.	Mark the field on google maps with a label so the location is noted.
 N.B. Provide the farmer/ farm manager with the survey form or survey link to obtain farm history.  
 
-### Field Protocol-Farmer kits
-#### Rationale
-Ideally, we would have farmers replicate the sampling protocol performed by our team - but this is too time intensive and complex to be realistic. Therefore, we need to identify the 'minimum viable product' that a farmer could deliver, that would be a fair representation of the Gt status of a field (our unit of replication). Lin et al (1979) find that a simple diagonal sampling method, with 10 samples evenly spaced along the diagonal, is an acceptable sampling method for clustered disease distributions with incidence rates < 20 or > 80%.
-The issue here is that fields vary in their size, and walking a full diagonal might be time-consuming. Also, how should we direct the farmer to evenly space the sampling points when the diagonal would vary in size? Assuming a typical lower bound for field size is 4 ha, the diagonal of such a field would measure about 565 m. Again, assuming that 500 m = 650 paces for the typical adult, we could approximate the diagonal sampling design by having the farmer take a sample every 65 paces along a straight line, probably a tramline (to provide easy access), until 10 samples are collected. 
-If we reduced the sampling interval to 10 paces, we'd obtain much lower coverage of the whole field (diagonal of ~80 m) but it might be worth it to reduce farmer effort. This is the approach adopted below. 
 
-#### Equipment and supplies
-Provided in the kit
-- Ziploc bags for wheat root (pre-labelled)
-- Graduated soil bottle (pre-labelled) 
-- Trowel
-
-Farmer provided
-- Secateurs
-
-#### Method
-N.B.
-- You may access the field from any point, but we recommend starting at the beginning of a tramline, to make it easier to walk a distance of ~100 m into the field.
-- Each sampling kit corresponds to one field.
-- Kit will have a QR code for farmers to answer specific questions about their field.
-
-1.	Use the gardening spade to scoop a small amount of soil into the container. Make sure you are sampling soils in the crop and not in the tramline. Try to ensure you're digging into the soil to a depth of approximately 10 cm.
-2.	Walk 10 paces and repeat step 1 placing soil in the same sampling bottle. 
-3.	Repeat until you have collected from 10 points in total and walked 100 paces.
-N.B. All the soil should all be put into the same container 
-4.	At the last sampling point, dig up a single wheat plant and place it into the provided plastic bag. 
-N.B. Important: We are mostly interested in the roots and the soil that sticks to the roots, so you can cut off the top of the plant to make it fit. Don't try to remove soils from around the roots!
-
-#### References
-Lin CS, Poushinsky G, Mauer M. 1979. An examination of five sampling methods under random and clustered disease distributions using simulation. Can J Plant Sci 59: 121-130 https://doi.org/10.4141/cjps79-017					
-
-Processing field samples:  
-- For all soil samples, they will be split into three sample bags.
-   - Using a spoon take roughly 50g of soil from the field sample and place into a smaller ziplock bag for the -80°C freezer.  
-   - Using the same spoon place roughly 50-70g of soil into a larger ziplock bag to be air dried. Roll the sides of this bag down and then place it where it will be out of the way to air dry for roughly a week (less if it was already quite dry). 
-   - The soil left in the field sample bag can be sealed and rolled up to be placed in the fridge.  
-- Clean the spoon and area with 70% ethanol before moving on to the next sample and repeating.  
-- With the wheat root samples, you will need to extract some of the roots using your (gloved) hands.  
-- Gently pull the roots out of the sample and shake them to remove any excess soil (we only want to retain the rhizosphere soil).  
-- Place the roots into a small ziplock for the -80°C freezer. The remaining sample can be sealed and rolled up to be placed at 4°C in the fridge.  
- 
----
 
 ## DNA extraction protocol following manufacturers manual
 
