@@ -15,7 +15,11 @@
   * [Seedling Bioassay - To recover Gaeumannomyces tritici isolates from Soil](#seedling-bioassay---to-recover-gaeumannomyces-tritici-isolates-from-soil)
 * [Transportation of Gt Isolates - Rothamsted Protocol (March 2024)](#transportation-of-gt-isolates---rothamsted-protocol-march-2024)
 * [Trial Protocol for Biocontrol of Gt](#Trial-Protocol-for-Biocontrol-of-Gt)
-* [Workflow for WP1](#Workflow-for-WP1) 
+* [Workflow for WP1](#Workflow-for-WP1)
+* [Field sampling protocol](Field-sampling-protocol)
+* [DNA extraction protocol following manufacturers manual](DNA-extraction-protocol-following-manufacturers-manual)
+* [DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit](DNA-quantification-using-Quant-iT-™-dsDNA-Broad-Range-Assay-Kit)
+* [DNA normalisation for sequencing with Biofoundry](DNA-normalisation-for-sequencing-with-Biofoundry)
 ---
 
 ## Safe Use of Controlled Environment Plant Rooms
@@ -360,7 +364,8 @@ Place roots in 50 mL Falcon tubes with 15 mL sterile distilled water.
 
 ---
 
-## Field sampling protocol:  Imperial Team 
+## Field sampling protocol
+Imperial Team 
 Rationale
 The goal of this experiment is to assess Gt abundance in soils, and its co-occurrence with other taxa. 
 We will attempt to quantify this in fields that vary in their:
@@ -437,12 +442,52 @@ c.	The soil left in the field sample bag can be sealed and rolled up to be place
  
 ---
 
+## DNA extraction protocol following manufacturers manual 
 
+Zymo research DNA™ Fecal/Soil Microbe 96 Kit (Catalogue number D6011)
+DNA from fecal, soil, and microbial samples.
+For optimal performance, add beta-mercaptoethanol (user supplied) to the Genomic Lysis Buffer to a final dilution of 0.5% (v/v) i.e., 750μl per 150 ml.- This was not added 
 
+1. Add ≤135 mg of soil to the tubes of a ZR BashingBead™ Lysis Rack (0.1 & 0.5 mm). Add 400 μl BashingBead™ Buffer to each tube and cap tightly.
+2. Secure in a bead beater fitted with the appropriate holder assembly for your bead beating module and process using optimized beat beating conditions (speed and time) for your device (see Appendix).
+3. Centrifuge the ZR BashingBead™ Lysis Rack (0.1 & 0.5 mm) at ≥ 3,000 x g (5,000 x g max.) for 5 minutes.
+4. Transfer up to 250 μl supernatant to each well of a 96-Well Block.
+5. Add 500 μL of Genomic Lysis Buffer and 250 μL 95% ethanol to the filtrate in the 96-Well Block from Step 4. Cover completely with Cover Foil and mix thoroughly by vortexing for 2 minutes. Centrifuge the 96-Well Block at ≥ 3,000 x g (5,000 x g max.) for 5 minutes.
+6. Remove or pierce foil and transfer 500 μl from the wells of Step 5 to the wells1 of a Silicon-A™ Plate, mounted on a Collection Plate. Centrifuge the assembly at ≥ 3,000 x g (5,000 x g max.) for 5 minutes. 
+1Be careful to avoid pipetting debris that can clog the wells of the Silicon-A™ Plate.
+7. Discard the flow-through from the Collection Plate and repeat Step 6.
+8. Add 200 μl DNA Pre-Wash Buffer to the wells of the Silicon-A™ Plate, mounted on the emptied Collection Plate, and centrifuge the assembly at ≥ 3,000 x g for 5 minutes.
+9. Add 500 μl g-DNA Wash Buffer to the wells of the Silicon-A™ Plate on the Collection Plate and centrifuge the assembly at ≥ 3,000 x g for 5 minutes.
+10. Prepare the Silicon-A™-HRC Plate3 by mounting it on an Elution Plate. Add 150 μl Prep Solution to the wells by piercing through the Cover Foil. Incubate at room temperature for 5 minutes and centrifuge the assembly at exactly 3,500 x g for 5 minutes.
+11. Place the Silicon-A™ Plate directly onto a prepared Silicon-A™-HRC Plate, and then mount the assembly on a new Elution Plate (this new assembly is a 3-plate stack).
+12. Add 100 μl (50 μl minimum) DNA Elution Buffer directly to the matrices to the Silicon-A™ Plate on top. Centrifuge the assembly at exactly 3,500 x g for 3 minutes. Eluted, ultra-pure DNA is now ready for use in your experiments, or the Elution Plate can be covered with Cover Foil for storage of the DNA.
+ 
+Figure 1: Soil DNA Extraction protocol from manufacturers manual
 
+---
 
+## DNA quantification using Quant-iT ™ dsDNA Broad-Range Assay Kit 
 
+Quant-iT ™ dsDNA Broad-Range Assay Kit (Catalog no. Q33130) 
+Following manufacturers manual:
+1.	Make a working solution by diluting Quant-iT™ dsDNA BR reagent 1:200 in Quant-iT™ dsDNA BR buffer. For example, for ~100 assays put 100 μL of Quant-iT™ dsDNA BR reagent (Component A) and 20 mL of Quant-iT™ dsDNA BR buffer (Component B) in a disposable plastic container and mix well. Do not use glass containers. Do not use buffers other than the Quant-iT™ dsDNA BR buffer to make the working solution. 
+2.	Load 190 μL (195 μL for unknown samples) of the working solution into each microplate well. Diluted Quant-iT™ dsDNA BR reagent is stable for at least 3 hours at room temperature, protected from light. 
+3.	Add 10 μL of each λ DNA standard (Component C) to separate wells and mix well. Take care not to introduce nucleases into the tubes of DNA standard as you remove aliquots for the assay. Duplicates of the standards are recommended. 
+4.	Add 5 μL of each unknown DNA sample to separate wells and mix well. 
+5.	Using the microplate reader, measure the fluorescence excitation/emission at 485/20,528/20 nm. Standard fluorescein wavelengths are appropriate for this dye. The fluorescence signal is stable for 3 hours at room temperature. 
+6.	Use a standard curve to determine the DNA amounts. For the λ DNA standards, plot amount vs. fluorescence, and fit a straight line to the data points.
+More information from manufacturer can be found online https://tools.thermofisher.com/content/sfs/manuals/Quant_iT_dsDNA_BR_Assay_UG.pdf 
 
+---
+
+## DNA normalisation for sequencing with Biofoundry
+
+After quantification using the Quanti BR kit, adjust DNA concentration for sequencing.
+1.	Calculate the amount of DNA and sterile nuclease free water is required for an end concentration of 1g/L. 
+2.	Add respective sterile nuclease free water into each well. Add the corresponding DNA from the initial DNA extracted. 
+3.	Take care not to cross contaminate samples. Leave wells G12 and H12 empty (as instructed by Biofoundry).
+
+---
 
 
 
