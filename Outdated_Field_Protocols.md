@@ -1,6 +1,6 @@
 # The Microbiome Green Revolution's repository for maintaining Sampling Protocol Documentation 
 
-# (Old protocols from Feb 2024 - Must be updated once organised). 
+# (Old protocols from Feb 2024 - These protocols must be integrated into or excluded from the protocol README.md file following the 27/11 Uren project meeting) 
 
 ## 1. Team Visit Protocol
 

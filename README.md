@@ -2,6 +2,10 @@
 
 ---
 
+#### To include further protocols in this repository, please include them in an appropriate location within the README.md file that is displayed here. The ```graphics``` directory should be used for figures displayed in the readme. The ```protocol_notes``` directory includes files that are not protocols themselves, but are relevant information for protocols outlined below.  
+
+---
+
 ## Table of Contents
 * [Workflow for WP1](#Workflow-for-WP1)
 * [Safe Use of Controlled Environment Plant Rooms](#safe-use-of-controlled-environment-plant-rooms)
