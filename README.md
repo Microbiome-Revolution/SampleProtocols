@@ -7,7 +7,8 @@
 ---
 
 ## Table of Contents
-* [Workflow for WP1](#Workflow-for-WP1)
+
+[//]: # (* [Workflow for WP1]&#40;#Workflow-for-WP1&#41;)
 * [Safe Use of Controlled Environment Plant Rooms](#safe-use-of-controlled-environment-plant-rooms)
 * [Field sampling protocol](#Field-sampling-protocol)
 * [Gt Culturing Protocol](#gt-culturing-protocol)
@@ -25,15 +26,22 @@
 * [DNA normalisation for sequencing with Biofoundry](#dna-normalisation-for-sequencing-with-biofoundry)
 ---
 
-## Workflow for WP1
+[//]: # ()
+[//]: # (## Workflow for WP1)
 
-1.	Collect and process soil and wheat root samples as described here Field Sampling SOP updated.docx. 
-2.	All metadata collected with the samples must be recorded and documented in the Metadata.xlsx file. Maintain a sample list in a Extraction master list.xlsx.
-3.	Extract DNA for 16S and ITS sequencing following the instructions provided. 
-4.	Quantify DNA as instructed for DNA quantification using Quant.docx.
-5.	Normalise DNA to a concentration required for 16S and ITS sequencing following this protocol.
+[//]: # ()
+[//]: # (1.	Collect and process soil and wheat root samples as described here Field Sampling SOP updated.docx. )
 
----
+[//]: # (2.	All metadata collected with the samples must be recorded and documented in the Metadata.xlsx file. Maintain a sample list in a Extraction master list.xlsx.)
+
+[//]: # (3.	Extract DNA for 16S and ITS sequencing following the instructions provided. )
+
+[//]: # (4.	Quantify DNA as instructed for DNA quantification using Quant.docx.)
+
+[//]: # (5.	Normalise DNA to a concentration required for 16S and ITS sequencing following this protocol.)
+
+[//]: # ()
+[//]: # (---)
 
 ## Safe Use of Controlled Environment Plant Rooms
 
